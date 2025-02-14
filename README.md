@@ -1,2 +1,2 @@
 # JLU-OPT
-Provide a dataset containing six types of surface defects in planar optical components, including: scratch, crack, edge rupture, striation, stain, pit.
+Provide a dataset containing a small portion of six types surface defects in planar optical components, including: scratch, crack, edge rupture, striation, stain, pit.
